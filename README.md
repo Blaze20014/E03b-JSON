@@ -10,7 +10,9 @@ This exercise will give you the opportunity to edit an existing JSON file (in th
  - Add new exit in BKENT called "ROB" with a target of "BKVAU"
  - In EGYPT, add a new item, a "MUMMY" with a description that reads "An ancient Egyptian mummy is sprawled on the floor". If the player tries to "TAKE" it, the response should be "You stuff the mummy in to your sack".
  - In DEAD7, change the description to "You have reached a dead end"
- - In CP change the name to "Just a room (not at all suspicious)"
+ - In CP change the name to "Just a room (not at all suspicious)"'
+
+ DONE
  
 If you need to check to see if you have produced a valid JSON file, you can validate it at https://jsonformatter.org/json-editor.
 
